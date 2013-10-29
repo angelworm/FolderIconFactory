@@ -19,3 +19,11 @@ DerivedData
 
 #CocoaPods
 Pods
+
+build
+.DS_Store
+source.tgz
+source.tar
+readme.rtfd
+create_strings.sh
+Icon

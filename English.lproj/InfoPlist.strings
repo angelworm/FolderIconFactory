@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+NSHumanReadableCopyright   = "© karasu, 2007-2008";
+CFBundleGetInfoString      = "1.4.1";
+CFBundleLongVersionString  = "FolderIconFactory 1.4.1";
+CFBundleShortVersionString = "1.4.1";

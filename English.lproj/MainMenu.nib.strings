@@ -1,0 +1,234 @@
+﻿/* Class = "NSWindow"; title = "FolderIconFactory"; ObjectID = "21"; */
+"21.title" = "FolderIconFactory";
+
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
+"29.title" = "MainMenu";
+
+/* Class = "NSMenuItem"; title = "NewApplication"; ObjectID = "56"; */
+"56.title" = "NewApplication";
+
+/* Class = "NSMenu"; title = "NewApplication"; ObjectID = "57"; */
+"57.title" = "NewApplication";
+
+/* Class = "NSMenuItem"; title = "FolderIconFactory について"; ObjectID = "58"; */
+"58.title" = "About FolderIconFactory";
+
+/* Class = "NSMenuItem"; title = "ヘルプ"; ObjectID = "103"; */
+"103.title" = "Help";
+
+/* Class = "NSMenu"; title = "ヘルプ"; ObjectID = "106"; */
+"106.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "FolderIconFactory ヘルプ"; ObjectID = "111"; */
+"111.title" = "FolderIconFactory Help";
+
+/* Class = "NSMenuItem"; title = "環境設定…"; ObjectID = "129"; */
+"129.title" = "Preferences…";
+
+/* Class = "NSMenuItem"; title = "FolderIconFactory を隠す"; ObjectID = "134"; */
+"134.title" = "Hide FolderIconFactory";
+
+/* Class = "NSMenuItem"; title = "Quit FolderIconFactory"; ObjectID = "136"; */
+"136.title" = "Quit FolderIconFactory";
+
+/* Class = "NSMenuItem"; title = ""; ObjectID = "144"; */
+"144.title" = "";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Hide Others";
+
+/* Class = "NSMenuItem"; title = ""; ObjectID = "149"; */
+"149.title" = "";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = ""; ObjectID = "196"; */
+"196.title" = "";
+
+/* Class = "NSWindow"; title = "環境設定"; ObjectID = "215"; */
+"215.title" = "Preferences";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "259"; */
+"259.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "ウィンドウ"; ObjectID = "308"; */
+"308.title" = "Window";
+
+/* Class = "NSMenu"; title = "ウィンドウ"; ObjectID = "309"; */
+"309.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "310"; */
+"310.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = ""; ObjectID = "311"; */
+"311.title" = "";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "312"; */
+"312.title" = "Bring All to Front";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "313"; */
+"313.title" = "Zoom";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "748"; */
+"748.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "ホーム"; ObjectID = "749"; */
+"749.title" = "Home";
+
+/* Class = "NSMenuItem"; title = "ハードディスク"; ObjectID = "750"; */
+"750.title" = "HD";
+
+/* Class = "NSMenuItem"; title = "フォルダー"; ObjectID = "751"; */
+"751.title" = "Folder";
+
+/* Class = "NSMenuItem"; title = "リムーバブルディスク"; ObjectID = "753"; */
+"753.title" = "Removable Disk";
+
+/* Class = "NSMenuItem"; title = "開いてるフォルダー"; ObjectID = "754"; */
+"754.title" = "Open Folder";
+
+/* Class = "NSMenuItem"; title = "アプリケーション"; ObjectID = "755"; */
+"755.title" = "Application";
+
+/* Class = "NSMenuItem"; title = "バンドル"; ObjectID = "756"; */
+"756.title" = "Bundle";
+
+/* Class = "NSMenuItem"; title = "CD"; ObjectID = "757"; */
+"757.title" = "CD";
+
+/* Class = "NSMenuItem"; title = ""; ObjectID = "758"; */
+"758.title" = "";
+
+/* Class = "NSMenuItem"; title = ""; ObjectID = "759"; */
+"759.title" = "";
+
+/* Class = "NSMenuItem"; title = ""; ObjectID = "760"; */
+"760.title" = "";
+
+/* Class = "NSMenuItem"; title = "ゴミ箱"; ObjectID = "761"; */
+"761.title" = "Trash";
+
+/* Class = "NSMenuItem"; title = "いっぱいになったゴミ箱"; ObjectID = "762"; */
+"762.title" = "Full Trash";
+
+/* Class = "NSMenuItem"; title = "アプリケーション"; ObjectID = "763"; */
+"763.title" = "Applications";
+
+/* Class = "NSMenuItem"; title = "デスクトップ"; ObjectID = "764"; */
+"764.title" = "Desktop";
+
+/* Class = "NSMenuItem"; title = "ムービー"; ObjectID = "765"; */
+"765.title" = "Movies";
+
+/* Class = "NSMenuItem"; title = "書類"; ObjectID = "766"; */
+"766.title" = "Documents";
+
+/* Class = "NSMenuItem"; title = "ライブラリ"; ObjectID = "767"; */
+"767.title" = "Library";
+
+/* Class = "NSMenuItem"; title = "サイト"; ObjectID = "768"; */
+"768.title" = "Sites";
+
+/* Class = "NSMenuItem"; title = "ミュージック"; ObjectID = "769"; */
+"769.title" = "Music";
+
+/* Class = "NSMenuItem"; title = ""; ObjectID = "770"; */
+"770.title" = "";
+
+/* Class = "NSMenuItem"; title = "システムフォルダー"; ObjectID = "771"; */
+"771.title" = "System";
+
+/* Class = "NSMenuItem"; title = "スマート検索フォルダー"; ObjectID = "772"; */
+"772.title" = "SavedSearch";
+
+/* Class = "NSMenuItem"; title = "FireWire"; ObjectID = "774"; */
+"774.title" = "FireWire";
+
+/* Class = "NSMenuItem"; title = "USB"; ObjectID = "775"; */
+"775.title" = "USB";
+
+/* Class = "NSButtonCell"; title = "アイコン付きフォルダを同じ場所に作成"; ObjectID = "990"; */
+"990.title" = "Given to the new folder created at the same place";
+
+/* Class = "NSButtonCell"; title = "アイコンを親のフォルダに張り付け"; ObjectID = "991"; */
+"991.title" = "Given to the parent folder";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "1036"; */
+"1036.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "1071"; */
+"1071.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "ファイルのアイコンを使う"; ObjectID = "1295"; */
+"1295.title" = "Use the icon of the image";
+
+/* Class = "NSButtonCell"; title = "画像のサムネイルを使う"; ObjectID = "1296"; */
+"1296.title" = "Use the thumbnail of the image";
+
+/* Class = "NSMenuItem"; title = "その他..."; ObjectID = "1365"; */
+"1365.title" = "Other...";
+
+/* Class = "NSMenuItem"; title = ""; ObjectID = "1366"; */
+"1366.title" = "";
+
+/* Class = "NSButtonCell"; title = "クリップボードに保存"; ObjectID = "1390"; */
+"1390.title" = "Copied to Clipboard";
+
+/* Class = "NSButtonCell"; title = "make"; ObjectID = "1544"; */
+"1544.title" = "make";
+
+/* Class = "NSTextFieldCell"; title = "アイコン設定:"; ObjectID = "1545"; */
+"1545.title" = "Icon Settings:";
+
+/* Class = "NSTextFieldCell"; title = "画像の倍率:"; ObjectID = "1546"; */
+"1546.title" = "Foreground Scale:";
+
+/* Class = "NSTextFieldCell"; title = "65"; ObjectID = "1548"; */
+"1548.title" = "65";
+
+/* Class = "NSTextFieldCell"; title = ""; ObjectID = "1549"; */
+"1549.title" = "";
+
+/* Class = "NSTextFieldCell"; title = "x:"; ObjectID = "1550"; */
+"1550.title" = "x:";
+
+/* Class = "NSTextFieldCell"; title = "画像の位置:"; ObjectID = "1551"; */
+"1551.title" = "Foreground Position:";
+
+/* Class = "NSTextFieldCell"; title = ""; ObjectID = "1552"; */
+"1552.title" = "";
+
+/* Class = "NSTextFieldCell"; title = "y:"; ObjectID = "1553"; */
+"1553.title" = "y:";
+
+/* Class = "NSButtonCell"; title = "デフォルトに戻す"; ObjectID = "1555"; */
+"1555.title" = "Restore Defaults";
+
+/* Class = "NSTextFieldCell"; title = "背景のアイコン:"; ObjectID = "1557"; */
+"1557.title" = "Background Image:";
+
+/* Class = "NSTextFieldCell"; title = "％"; ObjectID = "1558"; */
+"1558.title" = "%";
+
+/* Class = "NSTextFieldCell"; title = "makeボタンの動作:"; ObjectID = "1559"; */
+"1559.title" = "Created icon will be:";
+
+/* Class = "NSButtonCell"; title = "閉じる"; ObjectID = "1560"; */
+"1560.title" = "Close";
+
+/* Class = "NSTextFieldCell"; title = "画像がドロップされたときの動作:"; ObjectID = "1561"; */
+"1561.title" = "When an image file is dropped:";
+
+/* Class = "NSButtonCell"; title = "デフォルトに設定"; ObjectID = "1562"; */
+"1562.title" = "Save as defaults";
+
+/* Class = "NSButtonCell"; title = "Dockにドロップしたとき自動終了する"; ObjectID = "1563"; */
+"1563.title" = "Auto quit when an item is dropped into the dock icon";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "1564"; */
+"1564.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "1565"; */
+"1565.title" = "Radio";
+
