@@ -1,7 +1,7 @@
 FolderIconFactory
 =================
 
-[Icon](icon.png)
+![Icon](Icon.png)
 
 Creates Folder Icon with other icon badge
 
@@ -22,6 +22,6 @@ Folder Icon Factory future:
 
 2. example
 -------------------------
-[SS1](html/SS1.PNG)
+![SS1](html/SS1.PNG)
 
-[SS2](html/SS2.PNG)
+![SS2](html/SS2.PNG)
